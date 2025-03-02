@@ -1,0 +1,44 @@
+body {
+    color: white;
+}
+
+.h1,
+.h2,
+.h3,
+.h4{
+    font-family: "Times New Roman", sans-serif, Arial;
+    color: rgb(255, 68, 0);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.h2{
+    color: brown;
+    font-size: 40px;
+}
+
+.h3,
+.h4{
+    color: rgb(255, 0, 136);
+    font-size: 30px;
+}
+
+.h4{
+    color: skyblue;
+}
+
+
+.font-color{
+    color: white;
+    font-size: 25px;
+}
+
+.font-size{
+    font-size: 25px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
